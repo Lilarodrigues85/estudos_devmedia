@@ -1,0 +1,162 @@
+*{
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.secao-1 , .secao-2 , .secao-3 , .secao-4 , .secao-5 , .secao-6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.secao-1 p{
+  margin-top: 15px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.secao-2 , .secao-3 , .secao-5 , .secao-6 p{
+  margin: 10px auto 10px auto;
+  width: 980px;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.secao-1{
+  background-color: #afddfb;
+}
+
+.secao-1 img{
+  width: 150px;  
+}
+
+.secao-1 a{
+  font-size: 18px;
+  color: #1d1d1d;
+  border-bottom: 2px solid #1d1d1d;
+  text-decoration: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 0 10px 0 10px;
+}
+
+.secao-2{
+  margin-top: 50px;
+  padding-top: 0;
+}
+
+.secao-3 h1{
+  color: #1d1d1d;
+  margin-bottom: 5px;
+}
+
+.secao-3 h2 {
+  color: #1c81c0;
+  margin-top: 5px;
+  font-weight: normal;
+}
+
+.secao-3 img{
+  width: 450px;
+  margin-top: 15px;
+}
+
+.secao-3 p{
+  text-align: justify;
+}
+
+.secao-3 b{
+  color: #1d80c1;
+  font-weight: bold;
+}
+
+.secao-4{
+  background-color: #1d80c1;
+}
+
+.secao-4 p{
+  color: #ffffff;
+  line-height: 42px;
+  font-size: 22px;
+  width: 700px;
+  text-align: center;
+  margin: auto;
+}
+
+.secao-4 b{
+  color: #fff81b;
+}
+
+.secao-4 h2{
+  color: #ffffff;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.secao-4 ul{
+  margin: 40px auto 40px auto;
+  width: 135px;
+  color: #ffffff;
+  line-height: 42px;
+  text-align: left;
+  font-size: 22px;
+}
+
+.secao-5 h2{
+  color: #1c81c0;
+  margin-top: 5px;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.secao-5 img{
+  width: 450px;
+  margin-top: 15px;
+}
+
+.secao-5 p{
+  text-align: justify;
+}
+
+.secao-5 b{
+  color: #1d80c1;
+  font-weight: bold;
+}
+
+.secao-6{
+  background-color: #1d80c1;
+}
+
+.secao-6 h2{
+  color: #ffffff;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.secao-6 p{
+  color: #ffffff;
+  background-color: #1d1d1d;
+  padding: 15px;
+  margin-top: 30px 0 30px 0;
+}
+
+.secao-6 b{
+  color: #fff81b;
+  font-weight: bold;
+}
+
+.secao-6 ul { 
+  margin: 40px auto 40px auto;
+  width: 210px;
+}
+
+.secao-6 li{
+  margin-top: 15px;
+  text-align: center;
+  font-size: 18px;
+  background-color: #ffffff;
+  color: #1d80c1;
+  padding: 2px 5px 2px 5px;
+  border-radius: 5px;
+}
+
